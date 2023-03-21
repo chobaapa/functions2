@@ -2,7 +2,7 @@
 # Example: countdown(5) should return [5,4,3,2,1,0]
 def countdown(num):
     output = []
-    for i in range(num,-1,-1)
+    for i in range(num,-1,-1):
         output.append(i)
     return output
 print(countdown(5))
